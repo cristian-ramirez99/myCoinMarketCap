@@ -73,4 +73,5 @@ module.exports = {
   getAllUsers,
   getAdminUsers,
   createUser,
+  uniqueUser,
 };
